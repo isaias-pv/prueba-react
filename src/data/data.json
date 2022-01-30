@@ -1,0 +1,16 @@
+{
+    "kings" : [
+        {
+            "title"    : "Rey 1",
+            "img-src"   : "./img/img-1.png"
+        },
+        {
+            "title"    : "Rey 2",
+            "img-src"   : "./img/img-2.png"
+        },
+        {
+            "title"    : "Rey 3",
+            "img-src"   : "./img/img-3.png"
+        }
+    ]
+}

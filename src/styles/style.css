@@ -1,0 +1,15 @@
+body{
+  padding-top: 20px;
+}
+
+.card{
+  border: 1px solid #111 !important;
+  border-radius: 10px !important;
+  background-color: #e5be01 !important;
+  text-align: center;
+}
+
+.card p{
+  font-size: 30px;
+  color: whitesmoke;
+}
